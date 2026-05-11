@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Pablo 👋
+
+I'm a software engineer with years of experience building web applications. I work mostly with React, Node.js and Typescript but have worked with Ember.js and Ruby on Rails in the past.
+
+I also like to do some game programming as a hobby. Mainly with Vulkan and Zig.
 
 <!--
 **pagalindo/pagalindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
